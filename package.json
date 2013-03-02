@@ -1,0 +1,15 @@
+{
+  "name": "enix",
+  "description": "Distributed System Root",
+  "version": "0.0.0",
+  "author": "nomilous <nomilous@gmail.com>",
+  "contributors": [
+    {
+      "name": "nomilous",
+      "email": "nomilous@gmail.com"
+    }
+  ],
+  "repository": "git@github.com:nomilous/enix.git",
+  "dependencies": {},
+  "devDependencies": {}
+}
